@@ -2,8 +2,6 @@
 
 ## O que aprendi:
 
-Durante o curso avançado de Cypress, você vai aprender:
-
 - Como criar testes 100% _flakiness-free_
 - Como interagir com a aplicação o mais próximo de como um usuário real faria
   - Como esperar por um elemento estar visível antes de interagir com ele
