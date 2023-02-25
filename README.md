@@ -1,10 +1,6 @@
 # Testes Automatizados com Cypress - Avançado
 
-👋 Seja bem vindo(a)!
-
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
-
-## O que você vai aprender
+## O que aprendi:
 
 Durante o curso avançado de Cypress, você vai aprender:
 
@@ -22,10 +18,4 @@ Durante o curso avançado de Cypress, você vai aprender:
 - Como simular lentidão na chamada à uma API
 - Como modificar o relatório de testes padrão para um que combine com o seu estilo 😉
 
-## Vamos começar?
-
-Vá para a seção de [pré-requisitos](./lessons/0.md).
-
-___
-
-Um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Projeto clonado do [**repositório**](https://github.com/wlsf82/curso-cypress-avancado) do Walmyr Filho como base para o curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
